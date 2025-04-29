@@ -12,7 +12,9 @@
     "tabs": [
       {
         "tab": "Home",
-        "href": "https://amctest.mintlify.app/"
+        "pages": [
+          "overview"
+        ] 
       },
       {
         "tab": "API Reference",
