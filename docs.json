@@ -19,7 +19,7 @@
       {
         "tab": "Overview",
         "pages": [
-          "overview/entity-type-model"
+          "overview/entity-type-model",
           "overview/capabilities-and-features",
           "overview/templates",
           "overview/how-verne-works",
@@ -27,6 +27,26 @@
           "overview/configuration-concepts",
           "overview/terms-and-concepts",
           "overview/verne-reference-sites"
+        ]
+      },
+      {
+        "tab": "Verne Products",
+        "pages": [
+          "verne-products/companies-register",
+          "verne-products/beneficial-ownership-register",
+          "verne-products/personal-property-securities-register",
+          "verne-products/occupational-register",
+          "verne-products/register-of-things"
+        ]
+      },
+      {
+        "tab": "Verne Platform",
+        "pages": [
+          "verne-platform/companies-register",
+          "verne-platform/beneficial-ownership-register",
+          "verne-platform/personal-property-securities-register",
+          "verne-platform/occupational-register",
+          "verne-platform/register-of-things"
         ]
       }
     ]
