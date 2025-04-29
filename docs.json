@@ -20,6 +20,13 @@
         "tab": "Overview",
         "pages": [
           "overview/entity-type-model"
+          "overview/capabilities-and-features",
+          "overview/templates",
+          "overview/how-verne-works",
+          "overview/business-registry-patterns",
+          "overview/configuration-concepts",
+          "overview/terms-and-concepts",
+          "overview/verne-reference-sites"
         ]
       }
     ]
