@@ -12,16 +12,9 @@
     "tabs": [
       {
         "tab": "Home",
-        "groups": [
-          {
-            "group": "Get Started",
-            "pages": [
-              "introduction",
-              "quickstart",
-              "development"
+          "pages": [
+              "introduction"
             ]
-          }
-        ]
       },
       {
         "tab": "API Reference",
