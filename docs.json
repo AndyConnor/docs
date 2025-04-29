@@ -19,9 +19,9 @@
       {
         "tab": "Overview",
         "pages": [
-          "overview/introduction"
+          "overview/entity-type-model"
         ]
-      }, 
+      }
     ]
   },
   "logo": {
