@@ -41,12 +41,19 @@
       },
       {
         "tab": "Verne Platform",
-        "pages": [
-          "verne-platform/companies-register",
-          "verne-platform/beneficial-ownership-register",
-          "verne-platform/personal-property-securities-register",
-          "verne-platform/occupational-register",
-          "verne-platform/register-of-things"
+        "groups": [
+          {
+            "group": "User Management",
+            "pages": [
+              "verne-platform/user-management/user-profiles"
+            ]
+          },
+          {
+            "group": "Quickstart",
+            "pages": [
+              "verne-platform/quickstart/registry-templates"
+            ]
+          }
         ]
       }
     ]
