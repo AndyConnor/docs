@@ -60,7 +60,7 @@
   },
   "logo": {
     "light": "/logo/verne-logo-light.png",
-    "dark": "/logo/dark.svg"
+    "dark": "/logo/verne-logo-dark.png"
   },
   "navbar": {
     "links": [
