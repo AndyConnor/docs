@@ -69,7 +69,7 @@
       }
     ],
     "global": {
-      "anchors": [
+      "anchors": [ 
         {
           "anchor": "Documentation",
           "href": "https://mintlify.com/docs",
