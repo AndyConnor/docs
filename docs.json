@@ -70,7 +70,7 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
+    "light": "/logo/logo-light.png",
     "dark": "/logo/dark.svg"
   },
   "navbar": {
