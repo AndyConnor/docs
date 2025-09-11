@@ -9,15 +9,18 @@
   },
   "favicon": "/logo/favicon.png",
   "navigation": {
-    "tabs": [
-      {
-        "tab": "Home",
-        "pages": [
-          "index"
-        ]
-      }
-    ],
     "versions": [
+      {
+        "version": "Choose your platform",
+        "tabs": [
+          {
+            "tab": "Home",
+            "pages": [
+              "index"
+            ]
+          }
+        ]
+      },
       {
         "version": "Verne",
         "tabs": [
