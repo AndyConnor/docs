@@ -15,7 +15,7 @@
         "groups": [
           {
             "group": "Catalyst",
-            "pages": ["catalyst/index"]
+            "pages": ["catalyst/intro"]
           }
         ]
       },
@@ -24,7 +24,7 @@
         "groups": [
           {
             "group": "Verne",
-            "pages": ["verne/index"]
+            "pages": ["verne/intro"]
           }
         ]
       }
