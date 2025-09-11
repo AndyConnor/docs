@@ -9,7 +9,7 @@
   },
   "favicon": "/logo/favicon.png",
   "navigation": {
-       "versions": [
+      "versions": [
       {
         "version": "Catalyst",
         "groups": [
@@ -29,6 +29,7 @@
         ]
       }
     ]
+    "pages": index
   },
   "logo": {
     "light": "/logo/logo-light.png",
