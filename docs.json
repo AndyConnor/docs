@@ -14,10 +14,6 @@
         "version": "Verne",
         "tabs": [
       {
-              "tab": "Home",
-      "pages": [
-        "index"
-      ],
         "tab": "Introduction to Verne",
         "menu": [
           {
@@ -41,10 +37,6 @@
         "version": "Catalyst",
         "tabs": [
       {
-              "tab": "Home",
-      "pages": [
-        "index"
-      ],
         "tab": "Introduction to Catalyst",
         "menu": [
           {
