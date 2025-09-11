@@ -9,14 +9,6 @@
   },
   "favicon": "/logo/favicon.png",
   "navigation": {
-          "tabs": [
-      {
-        "tab": "Home",
-        "pages": [
-            "development"
-                ]
-      }
-    ],
       "versions": [
       {
         "version": "Verne",
