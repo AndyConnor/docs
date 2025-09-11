@@ -9,45 +9,47 @@
   },
   "favicon": "/logo/favicon.png",
   "navigation": {
-      "versions": [
+    "versions": [
       {
         "version": "Verne",
         "tabs": [
-      {
-        "tab": "Introduction to Verne",
-        "menu": [
           {
-            "item": "Verne",
-            "groups": [
+            "tab": "Introduction to Verne",
+            "menu": [
               {
-                "group": "Verne Items",
-                "pages": [
-                  "verne/page1",
-                  "verne/page2",
-                  "verne/page3"
+                "item": "Verne",
+                "groups": [
+                  {
+                    "group": "Verne Items",
+                    "pages": [
+                      "verne/page1",
+                      "verne/page2",
+                      "verne/page3"
+                    ]
+                  }
                 ]
               }
             ]
           }
         ]
-      }
-    ]
       },
-              {
+      {
         "version": "Catalyst",
         "tabs": [
-      {
-        "tab": "Introduction to Catalyst",
-        "menu": [
           {
-            "item": "Catalyst",
-            "groups": [
+            "tab": "Introduction to Catalyst",
+            "menu": [
               {
-                "group": "Catalyst Items",
-                "pages": [
-                  "catalyst/page1",
-                  "catalyst/page2",
-                  "catalyst/page3"
+                "item": "Catalyst",
+                "groups": [
+                  {
+                    "group": "Catalyst Items",
+                    "pages": [
+                      "catalyst/page1",
+                      "catalyst/page2",
+                      "catalyst/page3"
+                    ]
+                  }
                 ]
               }
             ]
@@ -55,9 +57,6 @@
         ]
       }
     ]
-      }
-    ]
-
   },
   "logo": {
     "light": "/logo/logo-light.png",
@@ -78,12 +77,12 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity"
+    ]
   },
   "footer": {
     "socials": {
