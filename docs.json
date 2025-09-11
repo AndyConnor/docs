@@ -20,7 +20,7 @@
             "item": "Catalyst",
             "groups": [
               {
-                "group": "Catlyst Items",
+                "group": "Catalyst Items",
                 "pages": [
                   "catalyst/page1",
                   "catalyst/page2",
@@ -37,20 +37,17 @@
         "version": "Verne",
         "tabs": [
       {
-        "tab": "Developer tools",
-        "icon": "square-terminal",
+        "tab": "Introduction to Verne",
         "menu": [
           {
-            "item": "API reference",
-            "icon": "rocket",
+            "item": "Verne",
             "groups": [
               {
-                "group": "Core endpoints",
-                "icon": "square-terminal",
+                "group": "Verne Items",
                 "pages": [
-                  "api-reference/get",
-                  "api-reference/post",
-                  "api-reference/delete"
+                  "verne/page1",
+                  "verne/page2",
+                  "verne/page3"
                 ]
               }
             ]
