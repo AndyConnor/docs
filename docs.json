@@ -9,22 +9,6 @@
   },
   "favicon": "/logo/favicon.png",
   "navigation": {
-        "dropdowns": [
-      {
-        "dropdown": "Quickstart",
-        "icon": "book-open",
-        "pages": [
-          "quickstart"
-        ]
-      },
-      {
-        "dropdown": "Development",
-        "icon": "square-terminal",
-        "pages": [
-          "development"
-        ]
-      }
-    ],
     "versions": [
       {
         "version": "Choose your platform",
