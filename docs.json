@@ -11,29 +11,6 @@
   "navigation": {
       "versions": [
       {
-        "version": "Catalyst",
-        "tabs": [
-      {
-        "tab": "Introduction to Catalyst",
-        "menu": [
-          {
-            "item": "Catalyst",
-            "groups": [
-              {
-                "group": "Catalyst Items",
-                "pages": [
-                  "catalyst/page1",
-                  "catalyst/page2",
-                  "catalyst/page3"
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-      },
-      {
         "version": "Verne",
         "tabs": [
       {
@@ -48,6 +25,29 @@
                   "verne/page1",
                   "verne/page2",
                   "verne/page3"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+      },
+              {
+        "version": "Catalyst",
+        "tabs": [
+      {
+        "tab": "Introduction to Catalyst",
+        "menu": [
+          {
+            "item": "Catalyst",
+            "groups": [
+              {
+                "group": "Catalyst Items",
+                "pages": [
+                  "catalyst/page1",
+                  "catalyst/page2",
+                  "catalyst/page3"
                 ]
               }
             ]
