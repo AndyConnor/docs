@@ -9,26 +9,7 @@
   },
   "favicon": "/logo/favicon.png",
   "navigation": {
-      "versions": [
-      {
-        "version": "Catalyst",
-        "groups": [
-          {
-            "group": "Catalyst",
-            "pages": ["catalyst/intro"]
-          }
-        ]
-      },
-      {
-        "version": "Verne",
-        "groups": [
-          {
-            "group": "Verne",
-            "pages": ["verne/intro"]
-          }
-        ]
-      }
-    ],
+
     "tabs": [
       {
         "tab": "Developer tools",
