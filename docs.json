@@ -9,85 +9,22 @@
   },
   "favicon": "/logo/favicon.png",
   "navigation": {
-        "dropdowns": [
+       "versions": [
       {
-        "dropdown": "Documentation",
-        "icon": "book-open",
-        "pages": [
-          "quickstart",
-          "development"
-        ]
-      },
-      {
-        "dropdown": "API reference",
-        "icon": "square-terminal",
-        "pages": [
-          "api-reference/get",
-          "api-reference/post",
-          "api-reference/delete"
-        ]
-      },
-      {
-        "dropdown": "Blog",
-        "href": "https://external-link.com/blog"
-      }
-    ]
-  }
-    "tabs": [ 
-      {
-        "tab": "Guides",
+        "version": "Catalyst",
         "groups": [
           {
-            "group": "Getting started",
-            "pages": [
-              "guides",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Customization",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
+            "group": "Catalyst",
+            "pages": ["catalyst/index"]
           }
         ]
       },
       {
-        "tab": "API reference",
+        "version": "Verne",
         "groups": [
           {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-          ]
+            "group": "Verne",
+            "pages": ["verne/index"]
           }
         ]
       }
