@@ -51,16 +51,6 @@
                 ]
               }
             ]
-          },
-          {
-            "item": "SDKs",
-            "icon": "code",
-            "description": "SDKs are used to interact with the API.",
-            "pages": [
-              "sdk/fetch",
-              "sdk/create",
-              "sdk/delete"
-            ]
           }
         ]
       }
