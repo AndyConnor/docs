@@ -9,12 +9,6 @@
   },
   "favicon": "/logo/favicon.png",
   "navigation": {
-    "tabs": [
-      "tab": "Home",
-      "pages": [
-        "index"
-      ]
-    ]
       "versions": [
       {
         "version": "Verne",
@@ -23,7 +17,7 @@
               "tab": "Home",
       "pages": [
         "index"
-      ]
+      ],
         "tab": "Introduction to Verne",
         "menu": [
           {
@@ -50,7 +44,7 @@
               "tab": "Home",
       "pages": [
         "index"
-      ]
+      ],
         "tab": "Introduction to Catalyst",
         "menu": [
           {
