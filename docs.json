@@ -59,18 +59,10 @@
     ],
             "tabs": [
       {
-        "tab": "Hello",
-        "menu": [
-          {
-            "item": "Hello",
-                "pages": [
-                  "quickstart",
-                  "development"
+        "tab": "Home",
+        "pages": [
+            "development"
                 ]
-              }
-            ]
-          }
-        ]
       }
     ]
   },
