@@ -12,10 +12,10 @@
       "versions": [
       {
         "version": "Catalyst",
-        "tabs": [
+        "groups": [
           {
-            "tab": "Intro",
-            "pages": "catalyst/intro"
+            "group": "Catalyst",
+            "pages": ["catalyst/intro"]
           }
         ]
       },
