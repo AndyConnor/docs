@@ -9,14 +9,22 @@
   },
   "favicon": "/logo/favicon.png",
   "navigation": {
+    "tabs": [
+      {
+        "tab": "Home",
+        "pages": [
+          "index"
+        ]
+      }
+    ],
     "versions": [
       {
         "version": "Verne",
         "tabs": [
-        {
+          {
             "tab": "Home",
             "pages": [
-               "index"
+              "index"
             ]
           },
           {
@@ -42,10 +50,10 @@
       {
         "version": "Catalyst",
         "tabs": [
-                  {
+          {
             "tab": "Home",
             "pages": [
-               "index"
+              "index"
             ]
           },
           {
