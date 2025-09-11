@@ -14,6 +14,29 @@
         "version": "Catalyst",
         "tabs": [
       {
+        "tab": "Introduction to Catalyst",
+        "menu": [
+          {
+            "item": "Catalyst",
+            "groups": [
+              {
+                "group": "Catlyst Items",
+                "pages": [
+                  "catalyst/page1",
+                  "catalyst/page2",
+                  "catalyst/page3"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+      },
+      {
+        "version": "Verne",
+        "tabs": [
+      {
         "tab": "Developer tools",
         "icon": "square-terminal",
         "menu": [
@@ -45,48 +68,6 @@
         ]
       }
     ]
-      },
-      {
-        "version": "Verne",
-        "groups": [
-          {
-            "group": "Verne",
-            "pages": ["verne/intro"]
-          }
-        ]
-      }
-    ],
-    "tabs": [
-      {
-        "tab": "Developer tools",
-        "icon": "square-terminal",
-        "menu": [
-          {
-            "item": "API reference",
-            "icon": "rocket",
-            "groups": [
-              {
-                "group": "Core endpoints",
-                "icon": "square-terminal",
-                "pages": [
-                  "api-reference/get",
-                  "api-reference/post",
-                  "api-reference/delete"
-                ]
-              }
-            ]
-          },
-          {
-            "item": "SDKs",
-            "icon": "code",
-            "description": "SDKs are used to interact with the API.",
-            "pages": [
-              "sdk/fetch",
-              "sdk/create",
-              "sdk/delete"
-            ]
-          }
-        ]
       }
     ]
   },
