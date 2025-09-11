@@ -15,13 +15,7 @@
         "tabs": [
           {
             "tab": "Intro",
-            "pages" "catalyst/intro"
-          }
-        ]
-        "groups": [
-          {
-            "group": "Catalyst",
-            "pages": ["catalyst/intro"]
+            "pages": "catalyst/intro"
           }
         ]
       },
