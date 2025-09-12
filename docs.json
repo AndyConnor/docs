@@ -9,65 +9,17 @@
   },
   "favicon": "/logo/favicon.png",
   "navigation": {
-    "versions": [
+    "tabs":[
       {
-        "version": "Verne",
-        "default": false,
-        "tabs": [
-          {
-            "tab": "Home",
-            "pages": [
-              "verne/intro"
-            ]
-          },
-          {
-            "tab": "Introduction to Verne",
-            "menu": [
-              {
-                "item": "Verne",
-                "groups": [
-                  {
-                    "group": "Verne Items",
-                    "pages": [
-                      "verne/page1",
-                      "verne/page2",
-                      "verne/page3"
-                    ]
-                  }
-                ]
-              }
-            ]
-          }
+        "tab": "Home",
+        "pages": [
+          "index"
         ]
       },
-      {
-        "version": "Catalyst",
-        "default": false,
-        "tabs": [
-          {
-            "tab": "Home",
-            "pages": [
-              "index"
-            ]
-          },
-          {
-            "tab": "Introduction to Catalyst",
-            "menu": [
-              {
-                "item": "Catalyst",
-                "groups": [
-                  {
-                    "group": "Catalyst Items",
-                    "pages": [
-                      "catalyst/page1",
-                      "catalyst/page2",
-                      "catalyst/page3"
-                    ]
-                  }
-                ]
-              }
-            ]
-          }
+           {
+        "tab": "Development",
+        "pages": [
+          "development"
         ]
       }
     ]
