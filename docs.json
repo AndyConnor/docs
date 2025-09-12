@@ -18,8 +18,19 @@
       },
            {
         "tab": "Development",
-        "pages": [
-          "development"
+        "versions": [
+          {
+            "version": "Verne",
+            "pages": [
+              "verne/page1"
+            ]
+          },
+                    {
+            "version": "Catalyst",
+            "pages": [
+              "catalyst/page1"
+            ]
+          }
         ]
       }
     ]
