@@ -12,7 +12,7 @@
     "versions": [
       {
         "version": "Verne",
-        "default": false,
+        "default": true,
         "tabs": [
           {
             "tab": "Home",
