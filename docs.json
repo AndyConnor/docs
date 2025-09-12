@@ -11,18 +11,8 @@
   "navigation": {
     "versions": [
       {
-        "version": "Registry Central",
-        "tabs": [
-          {
-            "tab": "Home",
-            "pages": [
-              "index"
-            ]
-          }
-        ]
-      },
-      {
         "version": "Verne",
+        "default": false,
         "tabs": [
           {
             "tab": "Home",
@@ -52,6 +42,7 @@
       },
       {
         "version": "Catalyst",
+        "default": false,
         "tabs": [
           {
             "tab": "Home",
