@@ -23,6 +23,7 @@
               "tab": "Verne Overview",
               "menu": [
                 {
+                  "item": "API reference",
                   "groups": [
                     {
                       "group": "Core endpoints",
