@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "willow",
   "name": "Registry Central",
   "colors": {
     "primary": "#16A34A",
@@ -9,31 +9,20 @@
   },
   "favicon": "/logo/favicon.png",
   "navigation": {
-    "tabs":[
+    "versions": [
       {
-        "tab": "Home",
+        "version": "Verne",
         "pages": [
-          "index"
+          "verne/page1"
         ]
       },
-           {
-        "tab": "Development",
-        "versions": [
-          {
-            "version": "Verne",
-            "pages": [
-              "verne/page1"
-            ]
-          },
-                    {
-            "version": "Catalyst",
-            "pages": [
-              "catalyst/page1"
-            ]
-          }
+      {
+        "version": "Catalyst",
+        "pages": [
+          "catalyst/page1"
         ]
       }
-    ]
+    ] 
   },
   "logo": {
     "light": "/logo/logo-light.png",
