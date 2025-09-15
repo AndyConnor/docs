@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "willow",
+  "theme": "mint",
   "name": "Registry Central",
   "colors": {
     "primary": "#16A34A",
@@ -20,10 +20,6 @@
               ]
             }
           ]
-      }
-        "pages": [
-          "verne/page1"
-        ]
       },
       {
         "version": "Catalyst",
