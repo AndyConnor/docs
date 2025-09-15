@@ -24,6 +24,9 @@
               "menu": [
                 {
                   "item": "Entity Type Model",
+                  "pages": [
+                    "verne/page1"
+                  ],
                   "item": "Capabilities and Features",
                   "groups": [
                     {
