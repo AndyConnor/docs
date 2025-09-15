@@ -20,16 +20,22 @@
               ]
             },
             {
-              "tab": "Verne Overview",
-              "menu":[
+              "tab": "Developer tools",
+              "icon": "square-terminal",
+              "menu": [
                 {
-                  "item": "Something Verne",
+                  "item": "API reference",
+                  "icon": "rocket",
                   "groups": [
-                    "pages": [
-                      "verne/page1",
-                      "verne/page2",
-                      "verne/page3"
-                    ]
+                    {
+                      "group": "Core endpoints",
+                      "icon": "square-terminal",
+                      "pages": [
+                        "verne/page1",
+                        "verne/page2",
+                        "verne/page3"
+                      ]
+                    }
                   ]
                 }
               ]
