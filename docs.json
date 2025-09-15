@@ -12,6 +12,15 @@
     "versions": [
       {
         "version": "Verne",
+          "tabs":[
+            {
+              "tab": "Home",
+              "pages": [
+                "index"
+              ]
+            }
+          ]
+      }
         "pages": [
           "verne/page1"
         ]
