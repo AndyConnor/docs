@@ -16,16 +16,33 @@
             {
               "tab": "Home",
               "pages": [
-                "index"
+                "verne/intro"
+              ]
+            },
+            {
+              "tab": "Verne Overview",
+              "pages": [
+                "verne/overview/entity-type-model",
+                "verne/overview/capabilities-and-features",
+                "verne/overview/templates",
+                "verne/overview/how-verne-works,
+                "verne/overview/business-registry-patterns",
+                "verne/overview/terms-and-concepts",
+                "verne/overview/verne-reference-sites"
               ]
             }
           ]
       },
       {
         "version": "Catalyst",
-        "pages": [
-          "catalyst/page1"
-        ]
+          "tabs":[
+            {
+              "tab": "Home",
+              "pages": [
+                "catalyst/intro"
+              ]
+            }
+          ]
       }
     ] 
   },
