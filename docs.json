@@ -23,7 +23,8 @@
               "tab": "Verne Overview",
               "menu": [
                 {
-                  "item": "API reference",
+                  "item": "Entity Type Model",
+                  "item": "Capabilities and Features",
                   "groups": [
                     {
                       "group": "Core endpoints",
