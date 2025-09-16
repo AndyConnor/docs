@@ -111,7 +111,7 @@
                 }
               ]
             },
-                        {
+            {
               "tab": "Verne Platform",
               "menu": [
                 {
@@ -122,6 +122,13 @@
                         "pages": [
                           "verne/platform/user-management/user-profiles",
                           "verne/platform/user-management/user-authentication"
+                        ]
+                    },
+                                        {
+                      "group": "Registry Operations",
+                        "pages": [
+                          "verne/platform/registry-operations/surpressing-data-on-the-register",
+                          "verne/platform/registry-operations/correct-the-register"
                         ]
                     }
                   ]
