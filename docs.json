@@ -30,16 +30,8 @@
                 },
                 {
                   "item": "Capabilities and Features",
-                  "groups": [
-                    {
-                      "group": "Core endpoints",
-                      "icon": "square-terminal",
-                      "pages": [
-                        "verne/page1",
-                        "verne/page2",
-                        "verne/page3"
-                      ]
-                    }
+                  "pages": [
+                    "verne/page2"
                   ]
                 }
               ]
