@@ -25,8 +25,7 @@
                 {
                   "item": "Entity Type Model",
                   "pages": [
-                    "verne/overview/entity-type-model",
-                    "verne/overview/capabilities-and-features"
+                    "verne/overview/entity-type-model"
                   ]
                 },
                 {
@@ -65,6 +64,12 @@
                     "verne/overview/verne-reference-sites"
                   ]
                 }
+              ]
+            },
+            {
+              "tab": "Home",
+              "pages": [
+                "index" 
               ]
             }
           ]
