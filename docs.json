@@ -24,16 +24,44 @@
               "menu": [
                 {
                   "item": "Entity Type Model",
-                  "groups": [
-                    {
-                      "group": "Verne Overview",
-                      "icon": "square-terminal",
-                      "pages": [
-                        "verne/overview/entity-type-model",
-                        "verne/overview/capabilities-and-features",
-                        "verne/overview/templates"
-                      ]
-                    }
+                  "pages": [
+                    "verne/overview/entity-type-model"
+                  ]
+                },
+                {
+                  "item": "Capabilities and Features",
+                  "pages": [
+                    "verne/overview/capabilities-and-features"
+                  ]
+                },
+                {
+                  "item": "Templates",
+                  "pages": [
+                    "verne/overview/templates"
+                  ]
+                },
+                {
+                  "item": "How Verne Works",
+                  "pages": [
+                    "verne/overview/how-verne-works"
+                  ]
+                },
+                {
+                  "item": "Business Registry Patterns",
+                  "pages": [
+                    "verne/overview/business-registry-patterns"
+                  ]
+                },
+                {
+                  "item": "Terms and Concepts",
+                  "pages": [
+                    "verne/overview/terms-and-concepts"
+                  ]
+                },
+                {
+                  "item": "Verne Reference Sites",
+                  "pages": [
+                    "verne/overview/verne-reference-sites"
                   ]
                 }
               ]
