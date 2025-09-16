@@ -25,43 +25,43 @@
                 {
                   "item": "Entity Type Model",
                   "pages": [
-                    "verne/page1"
+                    "verne/overview/entity-type-model"
                   ]
                 },
                 {
                   "item": "Capabilities and Features",
                   "pages": [
-                    "verne/page2"
+                    "verne/overview/capabilities-and-features"
                   ]
                 },
                 {
                   "item": "Templates",
                   "pages": [
-                    "verne/page2"
+                    "verne/overview/templates"
                   ]
                 },
                 {
                   "item": "How Verne Works",
                   "pages": [
-                    "verne/page2"
+                    "verne/overview/how-verne-works"
                   ]
                 },
                 {
                   "item": "Business Registry Patterns",
                   "pages": [
-                    "verne/page2"
+                    "verne/overview/business-registry-patterns"
                   ]
                 },
                 {
                   "item": "Terms and Concepts",
                   "pages": [
-                    "verne/page2"
+                    "verne/overview/terms-and-concepts"
                   ]
                 },
                 {
                   "item": "Verne Reference Sites",
                   "pages": [
-                    "verne/page2"
+                    "verne/overview/verne-reference-sites"
                   ]
                 }
               ]
