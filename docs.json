@@ -25,7 +25,13 @@
                 {
                   "item": "Entity Type Model",
                   "pages": [
-                    "verne/overview/entity-type-model"
+                    "verne/overview/entity-type-model",
+                    "verne/overview/capabilities-and-features",
+                    "verne/overview/templates",
+                    "verne/overview/how-verne-works",
+                    "verne/overview/business-registry-patterns",
+                    "verne/overview/terms-and-concepts",
+                    "verne/overview/verne-reference-sites"
                   ]
                 },
                 {
