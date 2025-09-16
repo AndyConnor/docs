@@ -119,13 +119,24 @@
                   "groups": [
                     {
                       "group": "User Management",
-                                        "pages": [
-                    "verne/platform/user-management/user-profiles",
-                    "verne/platform/user-management/user-authentication"
-                  ]
+                        "pages": [
+                          "verne/platform/user-management/user-profiles",
+                          "verne/platform/user-management/user-authentication"
+                        ]
                     }
                   ]
-
+                },
+                {
+                  "item": "Registry Operations",
+                  "groups": [
+                    {
+                      "group": "Registry Operations",
+                        "pages": [
+                          "verne/platform/registry-operations/surpressing-data-on-the-register",
+                          "verne/platform/registry-operations/correct-the-register"
+                        ]
+                    }
+                  ]
                 }
               ]
             }
