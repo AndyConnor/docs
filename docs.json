@@ -73,54 +73,40 @@
               ]
             },
             {
-              "tab": "Verne Overview",
+              "tab": "Verne Products",
               "menu": [
                 {
-                  "item": "Entity Type Model",
+                  "item": "Companies Register",
                   "pages": [
-                    "verne/overview/entity-type-model",
-                    "verne/overview/capabilities-and-features",
-                    "verne/overview/templates",
-                    "verne/overview/how-verne-works",
-                    "verne/overview/business-registry-patterns",
-                    "verne/overview/terms-and-concepts",
-                    "verne/overview/verne-reference-sites"
+                    "verne/products/companies-register",
+                    "verne/products/beneficial-ownership-register",
+                    "verne/products/personal-property-securities-register",
+                    "verne/products/occupational-register",
+                    "verne/products/register-of-things"
                   ]
                 },
                 {
-                  "item": "Capabilities and Features",
+                  "item": "Beneficial Ownership Register",
                   "pages": [
-                    "verne/overview/capabilities-and-features"
+                    "verne/products/beneficial-ownership-register"
                   ]
                 },
                 {
-                  "item": "Templates",
+                  "item": "Personal Property Securities Register",
                   "pages": [
-                    "verne/overview/templates"
+                    "verne/products/personal-property-securities-register"
                   ]
                 },
                 {
-                  "item": "How Verne Works",
+                  "item": "Occupational Register",
                   "pages": [
-                    "verne/overview/how-verne-works"
+                    "verne/products/occupational-register"
                   ]
                 },
                 {
-                  "item": "Business Registry Patterns",
+                  "item": "Register of Things",
                   "pages": [
-                    "verne/overview/business-registry-patterns"
-                  ]
-                },
-                {
-                  "item": "Terms and Concepts",
-                  "pages": [
-                    "verne/overview/terms-and-concepts"
-                  ]
-                },
-                {
-                  "item": "Verne Reference Sites",
-                  "pages": [
-                    "verne/overview/verne-reference-sites"
+                    "verne/products/register-of-things"
                   ]
                 }
               ]
