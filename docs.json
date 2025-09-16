@@ -16,7 +16,7 @@
             {
               "tab": "Home",
               "pages": [
-                "index"
+                "index" 
               ]
             },
             {
@@ -25,8 +25,7 @@
                 {
                   "item": "Entity Type Model",
                   "pages": [
-                    "verne/page1",
-                    "verne/page2"
+                    "verne/page1"
                   ]
                 },
                 {
