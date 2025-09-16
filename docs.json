@@ -110,6 +110,24 @@
                   ]
                 }
               ]
+            },
+                        {
+              "tab": "Verne Platform",
+              "menu": [
+                {
+                  "item": "User Management",
+                  "groups": [
+                    {
+                      "group": "User Management",
+                                        "pages": [
+                    "verne/platform/user-management/user-profiles",
+                    "verne/platform/user-management/user-authentication"
+                  ]
+                    }
+                  ]
+
+                }
+              ]
             }
           ]
       },
